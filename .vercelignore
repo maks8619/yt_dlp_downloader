@@ -1,0 +1,6 @@
+downloads/
+*.mp4
+*.log
+*.zip
+__pycache__/
+*.pyc
